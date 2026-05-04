@@ -3,6 +3,6 @@ Built predictive models for real deer collisions data using K-Means clustering, 
 Key achievements
 - Build a clustering map for risk-evaluation.
 - Use ML tree-based models (random forest, boosting) with feature engineering to tackle overfitting and non-linearity challenge.
-
+Link to Clustering notebook: [https://colab.research.google.com/drive/1H5qcrr7VQt-2nE38VUp8cG8tJMTpPhLZ?authuser=1](https://drive.google.com/file/d/1riZLuuCPtN0Qg_xW8ahHzvYTrZH4vOkl/view?usp=sharing)
 K-Clustering
 <img width="780" height="369" alt="image" src="https://github.com/user-attachments/assets/fa92051e-c91d-460e-af65-c303a17c8388" />
